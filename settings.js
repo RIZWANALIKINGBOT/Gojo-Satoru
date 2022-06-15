@@ -19,30 +19,30 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['+923448390696']
-global.premium = ['+923448390696']
-global.ownernomer = '+923448390696'
-global.ownername = 'Awais kinG🥀🔥'
-global.botname = 'Awais kinG🥀🔥'
-global.footer = 'Awais kinG🥀🔥.'
+global.owner = ['+923180327106']
+global.premium = ['+923180327106']
+global.ownernomer = '+923180327106'
+global.ownername = '𝓡𝓘𝓩𝓦𝓐𝓝 𝓚𝓘𝓝𝓖'
+global.botname = '𝓡𝓘𝓩𝓦𝓐𝓝 𝓚𝓘𝓝𝓖'
+global.footer = '𝓡𝓘𝓩𝓦𝓐𝓝 𝓚𝓘𝓝𝓖'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Awais kinG🥀🔥'
-global.author = 'Awais kinG🥀🔥'
+global.packname = '𝓡𝓘𝓩𝓦𝓐𝓝 𝓚𝓘𝓝𝓖'
+global.author = '𝓡𝓘𝓩𝓦𝓐𝓝 𝓚𝓘𝓝𝓖'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','🐦','🫣','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
+    admin: 'This Feature Is Only For Admin 𝓡𝓘𝓩𝓦𝓐𝓝 𝓚𝓘𝓝𝓖!',
+    botAdmin: 'Bot Must Be Admin First 𝓡𝓘𝓩𝓦𝓐𝓝 𝓚𝓘𝓝𝓖!',
+    owner: 'This Feature Is Only For Owner 𝓡𝓘𝓩𝓦𝓐𝓝 𝓚𝓘𝓝𝓖!',
+    group: 'Feature Used Only For Groups 𝓡𝓘𝓩𝓦𝓐𝓝 𝓚𝓘𝓝𝓖!',
+    private: 'Features Used Only For Private Chat 𝓡𝓘𝓩𝓦𝓐𝓝 𝓚𝓘𝓝𝓖!',
+    bot: 'This Feature Is Only For Bot 𝓡𝓘𝓩𝓦𝓐𝓝 𝓚𝓘𝓝𝓖',
+    wait: 'Wait A minute 𝓡𝓘𝓩𝓦𝓐𝓝 𝓚𝓘𝓝𝓖...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
